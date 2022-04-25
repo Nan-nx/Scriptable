@@ -1,0 +1,431 @@
+{
+  "author": "DomplingYaYa",
+  "scriptable": true,
+  "icon": "https://avatars3.githubusercontent.com/u/23498579?s=460&u=1e87605e4abc4e6ecf3edd8b1d730227f54db4d4&v=4",
+  "repo": "https://github.com/dompling/Scriptable",
+  "apps": [
+    {
+      "version": "1.1.0",
+      "description": "DmYY组件库",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js",
+      "thumb": "https://img.icons8.com/clouds/344/settings.png",
+      "name": "DmYY",
+      "title": "DmYY",
+      "html": [
+        "<h4 align=\"center\">更新说明</h4>",
+        "v1.1.0",
+        "<li>修复 boxjs 读取问题</li>",
+        "v1.0.8",
+        "<li>兼容 ios15 系统，图标引起脚本一直转圈问题</li>",
+        "v1.0.7",
+        "<li>处理背景图在 12mini 下错位的情况</li>",
+        "v1.0.6",
+        "<li>优化菜单，增加菜单图标</li>",
+        "v1.0.5",
+        "<li>修改调整菜单更多图标</li>",
+        "<li>预览关闭菜单功能</li>",
+        "<br/>",
+        "<h3 align=\"center\">历史版本</h3>",
+        "<li><a href=\"https://gist.githubusercontent.com/dompling/ca238c3102a1ed88746d617d0d0cbe2f/raw/04ccdfd75fcd6674df09c6fe627a3aabc701a25a/DmYY\">可视化界面版本</a></li>"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "根据代理软件获取到京东 CK ,或者自行输入。显示京东最近的未确认收货的订单和信息。组件使用，参考下方京东豆走势视频",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/JDWuLiu.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
+      "name": "JDWuLiu",
+      "homepage": "https://github.com/dompling/Scriptable/blob/master/JDWuLiu/README.md",
+      "title": "京东物流",
+      "html": [
+        "<h3 align=\"center\">京东组件教程</h3>",
+        "<p align=\"center\"><iframe src=\"https://www.youtube.com/embed/7_RkDdn3J1A\" width=\"100%\" height=\"100%\"></iframe></p>"
+      ],
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "根据代理软件获取到京东 CK ,或者自行输入。显示京豆总量，和昨日收支情况。组件使用，参考下方京东豆走势视频",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/JDDou.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
+      "name": "JDDou",
+      "homepage": "https://github.com/dompling/Scriptable/blob/master/JDDou/README.md",
+      "title": "京东豆",
+      "html": [
+        "<h3 align=\"center\">京东组件教程</h3>",
+        "<p align=\"center\"><iframe src=\"https://www.youtube.com/embed/7_RkDdn3J1A\" width=\"100%\" height=\"100%\"></iframe></p>"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "根据代理软件获取到京东 CK ,或者自行输入。显示京东最近的京豆收支。组件使用，参考下方视频",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/JDDouK.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
+      "name": "JDDouK",
+      "title": "京东豆走势",
+      "html": [
+        "<h3 align=\"center\">京东组件教程</h3>",
+        "<p align=\"center\"><iframe src=\"https://www.youtube.com/embed/7_RkDdn3J1A\" width=\"100%\" height=\"100%\"></iframe></p>"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/dompling/Scriptable/master/images/jdk.jpg"
+      ],
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "description": "哔哩哔哩今日的推送番剧情况",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/BiliBili.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png",
+      "name": "BiliBili",
+      "title": "今日番剧"
+    },
+    {
+      "version": "1.0.0",
+      "description": "哔哩哔哩关注中心的最近更新",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/BiliBiliWatch.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png",
+      "name": "BiliBiliWatch",
+      "title": "关注中心",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "哔哩哔哩Up主订阅控件的视频信息等",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/BiliBiliUp.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png",
+      "name": "BiliBiliUp",
+      "title": "哔哩UP主",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "日历函数插件，组件的依赖包",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/Calendar.js",
+      "thumb": "https://img.icons8.com/clouds/344/edit-calendar.png",
+      "name": "Calendar",
+      "title": "日历函数"
+    },
+    {
+      "version": "1.0.0",
+      "description": "生日的信息和倒计时",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/Birthday.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/birthday.png",
+      "name": "Birthday",
+      "title": "破壳日",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        },
+        {
+          "name": "Calendar",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/Calendar.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "description": "显示历史上的今日带图片情况",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/HistoryToday.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/historyToday.png",
+      "name": "HistoryToday",
+      "title": "历史上的今天",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "智行火车票的出行提醒，需要手动的去智行火车的待出行列表使用重写获取待出行数据",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/ZXTrains.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/zxhc.png",
+      "name": "ZXTrains",
+      "title": "车票提醒",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "根据快捷指令，可以获取到相关的健康数据，然后使用本组件可以查询最近的步行跑步的数据",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/Health.js",
+      "thumb": "https://img.icons8.com/clouds/344/apple-health.png",
+      "name": "Health",
+      "title": "健康步数",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "在文本框里面输入电话簿中的联系人，可以在桌面显示联系人信息，可以进行电话拨号等",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/Contact.js",
+      "thumb": "https://img.icons8.com/clouds/344/apple-contacts.png",
+      "name": "Contact",
+      "title": "桌面联系人",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "在文本框里面输入电报频道的信息，可以显示订阅的人数等信息",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/Telegram.js",
+      "thumb": "https://img.icons8.com/clouds/344/telegram-app.png",
+      "name": "Telegram",
+      "title": "Telegram",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "在文本框里面输入YouTube 作者的信息，可以展示作者的粉丝数，视频信息等",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/YouTube.js",
+      "thumb": "https://img.icons8.com/clouds/2x/youtube.png",
+      "name": "YouTube",
+      "title": "YouTube",
+      "html": [
+        "<h3 align=\"center\">组件教程</h3>",
+        "<p align=\"center\"><iframe src=\"https://www.youtube.com/embed/M5XMCTRLZkI\" width=\"100%\" height=\"100%\"></iframe></p>"
+      ],
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "显示中国电信的手机号的套餐信息，可以在 app 里面登录，登录成功之后可以展示信息，也可以使用代理缓存读取 boxjs 的账号信息",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/ChinaTelecom.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png",
+      "name": "ChinaTelecom",
+      "title": "中国电信",
+      "html": [
+        "<h3 align=\"center\">组件教程</h3>",
+        "<p align=\"center\"><iframe src=\"https://www.youtube.com/embed/_xjLlpz0GbU\" width=\"100%\" height=\"100%\"></iframe></p>"
+      ],
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "显示移动的套餐信息，目前暂不支持登录，请自行使用代理软件抓取数据信息。推荐使用 boxjs 代理缓存",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/ChinaMobile.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png",
+      "name": "ChinaMobile",
+      "title": "中国移动",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        },
+        {
+          "name": "crypto-js",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/crypto-js.min.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "显示联通的套餐信息，目前暂不支持登录，请自行使用代理软件抓取数据信息。推荐使用 boxjs 代理缓存",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/ChinaUnicom.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png",
+      "name": "ChinaUnicom",
+      "title": "中国联通",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "Vpn 折线图面板，带签到功能。支持的机场 url 地址：https://**/auth/login",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/VpnBoard.js",
+      "thumb": "https://img.icons8.com/clouds/344/paper-plane-message-1.png",
+      "name": "VPNBoard",
+      "title": "VPN面板",
+      "html": [
+        "<h3 align=\"center\">机场模板要求</h3>",
+        "<p>登陆地址如下：https://***/auth/login , 以/auth/login 结尾的地址则符合要求</p>"
+      ],
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "Vpn 圆形进度条，带签到功能。 url 地址：https://**/auth/login",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/VPNBoardPress.js",
+      "thumb": "https://img.icons8.com/clouds/344/paper-plane-message-1.png",
+      "name": "VPNBoardPress",
+      "title": "VPN圆形",
+      "html": [
+        "<h3 align=\"center\">机场模板要求</h3>",
+        "<p>登陆地址如下：https://***/auth/login , 以/auth/login 结尾的地址则符合要求</p>"
+      ],
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "description": "VPN 圆形进度条，vpn 的订阅地址返回的信息中需要有带各种流量的使用情况的订阅地址",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/VPNSubscription.js",
+      "thumb": "https://img.icons8.com/clouds/344/paper-plane-message-1.png",
+      "name": "VPNSubscription",
+      "title": "VPN订阅",
+      "html": [
+        "<h3 align=\"center\">机场模板要求</h3>",
+        "<h4>PC：订阅链接</h4>",
+        "<li>打开订阅链接</li>",
+        "<li>电脑端使用 F12 打开调试控制台，找到NetWork</li>",
+        "<li>找到订阅地址的请求</li>",
+        "<li>如果 response里面含有subscription-userinfo的关键字则满足条件</li>",
+        "<br/>",
+        "<h4>Mobile：</h4>",
+        "<li>操作方式类似 PC 登陆地址的查看步骤</li>"
+      ],
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "VPN 圆形进度条，vpn 登陆地址必须是 https://****/api/v1/passport/auth/login",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/VPNV2Bord.js",
+      "thumb": "https://img.icons8.com/clouds/344/paper-plane-message-1.png",
+      "name": "VPNV2Board",
+      "title": "V2模板",
+      "html": [
+        "<h3 align=\"center\">VPN 小组件教学</h3>",
+        "<p align=\"center\"><iframe src=\"https://www.youtube.com/embed/GguczjLgfmM\" width=\"100%\" height=\"100%\"></iframe></p>",
+        "<h3 align=\"center\">机场模板要求</h3>",
+        "<p>登陆地址如下：https://xn--mesr8b36x.net/#/login , 以/#/login 结尾的地址则符合要求</p>",
+        "<h4>PC登陆地址接口：</h4>",
+        "<li>输入账号密码（错误的账号密码即可）点击登陆</li>",
+        "<li>电脑端使用 F12 打开调试控制台，找到NetWork</li>",
+        "<li>找到 login 接口：https://*****/api/v1/passport/auth/login</li>",
+        "<li>在 scriptable中的登陆地址输入/api/v1/passport/auth/login前面的那段地址</li>",
+        "<br/>",
+        "<h4>Mobile登陆地址接口：</h4>",
+        "<li>请自行使用代理软件查看搜索即可，操作方式类似 PC 登陆地址的查看步骤</li>"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "毒汤日历，每天一杯毒鸡汤，扎心不怕百年享。",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/PoisonCalendar.js",
+      "thumb": "https://img.icons8.com/clouds/344/google-calendar.png",
+      "name": "PoisonCalendar",
+      "title": "毒汤日历",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        },
+        {
+          "name": "Calendar",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/Calendar.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "毒汤日历纯文字版，无需抓包信息",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/PoisonCalendarText.js",
+      "thumb": "https://img.icons8.com/clouds/344/google-calendar.png",
+      "name": "PoisonCalendarText",
+      "title": "毒汤纯文字",
+      "depend": [
+        {
+          "name": "DmYY",
+          "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/DmYY.js"
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "description": "显示定位信息的油价使用的情况",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/TodayOilPrice.js",
+      "thumb": "https://img.icons8.com/clouds/344/engine-oil-level.png",
+      "name": "TodayOilPrice",
+      "title": "今日油价"
+    },
+    {
+      "version": "1.0.0",
+      "description": "根据定位信息，显示本地区的新冠病毒的数据情况，可能有数据更新不及时的情况",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/COVID-19.js",
+      "thumb": "https://img.icons8.com/clouds/344/coronavirus.png",
+      "name": "COVID-19",
+      "title": "疫情日报"
+    },
+    {
+      "version": "1.0.1",
+      "description": "显示公历和农历，根据近期的信息会出现一个倒计时的提示信息",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/CountDown.js",
+      "thumb": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/daysmatter.png",
+      "name": "CountDownCalendar",
+      "title": "日历倒计时",
+      "html": [
+        "<h4 align=\"center\">更新说明</h4>",
+        "v1.0.1",
+        "<li>调整大尺寸排列效果</li>",
+        "<li>调整下班倒计时默认不开启</li>"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "author": "YaYa推荐",
+  "scriptable": true,
+  "icon": "https://avatars3.githubusercontent.com/u/23498579?s=460&u=1e87605e4abc4e6ecf3edd8b1d730227f54db4d4&v=4",
+  "repo": "https://github.com/dompling/Scriptable",
+  "apps": [
+    {
+      "version": "1.0.0",
+      "author": "KeiKinn",
+      "description": "透明贴纸，随机换磁贴图片",
+      "scriptURL": "https://raw.githubusercontent.com/KeiKinn/StickerOnScreen/main/src/StickerOnScreen.js",
+      "thumb": "https://img.icons8.com/clouds/344/apple-app-store.png",
+      "name": "StickerOnScreen",
+      "title": "透明贴纸",
+      "html": [
+        "作者：<a href=\"https://github.com/KeiKinn/StickerOnScreen\">@KeiKinn</>"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/KeiKinn/StickerOnScreen/main/img/IMG_3804.JPEG"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "author": "@Michael Lee",
+      "description": "根据脚本注释，自行填写 API, 和频道ID",
+      "scriptURL": "https://raw.githubusercontent.com/zc-nju-med/own_JS/master/YouTube%20Plus.js",
+      "thumb": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png",
+      "name": "YouTubePlus",
+      "title": "油管订阅",
+      "html": [
+        "<p>作者：<a href=\"https://github.com/michaellee\">@Michael Lee</a></p>",
+        "<p>Michael Lee 大佬博客里一篇文章详细的描述了关于这个小组件开发和使用，有一定英语水平的大佬可以自行摸索，了解了解代码</p>",
+        "<p>博客：<a href=\"https://michaelsoolee.com/ios-scriptable-youtube-widget\">iOS Scriptable YouTube widget</a></p>",
+        "<p>谷歌的 API KEY 需要自行申请，地址：<a href=\"https://developers.google.com/youtube/v3/getting-started\">YouTube DataAPI</a><p>"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "author": "@Unknown",
+      "description": "根据脚本注释自行使用",
+      "scriptURL": "https://raw.githubusercontent.com/zc-nju-med/own_JS/master/NBA.js",
+      "thumb": "https://img.icons8.com/nolan/344/basketball.png",
+      "name": "NBA",
+      "title": "NBA",
+      "html": ["<p>喜欢篮球的，可以看看</p>"]
+    },
+    {
+      "version": "1.0.0",
+      "author": "@三行",
+      "description": "根据脚本注释自行使用",
+      "scriptURL": "https://raw.githubusercontent.com/dompling/Scriptable/master/Scripts/webo.js",
+      "thumb": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2225458401,2104443747&fm=26&gp=0.jpg",
+      "name": "Webo",
+      "title": "微博热搜",
+      "html": [
+        "<p>修改自三行大佬的脚本<a href=\"https://x.im3x.cn\">@三行</a></p>"
+      ]
+    }
+  ]
+}
