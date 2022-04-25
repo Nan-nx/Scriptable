@@ -41,7 +41,7 @@
 - 安装订阅： <a href="https://raw.githubusercontent.com/anker1209/Scriptable/main/install.json" download="anker1209.js">@anker1209</a>
    
 
-> BoxJs [BoxJs 仓库](https://github.com/chavyleung/scripts/)根据 圈 X，Loon , Surge 做的代理功能，教程如下地址：
+>  [BoxJs 仓库](https://github.com/chavyleung/scripts/)根据 圈 X，Loon , Surge 做的代理功能，教程如下地址：
 
 - [BoxJs 使用教程](https://chavyleung.gitbook.io/boxjs/)
 
