@@ -57,6 +57,7 @@
 下载想要使用的.js 文件后，直接导入 Scriptable 即可。也可使用 Install Scripts 一键安装所有脚本，点击[这里](https://github.com/evilbutcher/Scriptables/blob/master/Install%20Scripts.js)下载安装 Install Scripts.js。
 
 ~~如果想要保持自动更新，又想要自定义脚本内设置，需要使用 Config，点击[这里](https://github.com/evilbutcher/Scriptables/blob/master/Config.js)下载安装 Config.js。~~
+配置 Config 文件后，脚本运行优先使用 Config 文件内的设置，这样可以保证每次更新不会影响自定义设置。
 
 #### 组件列表
 
@@ -107,24 +108,6 @@ App 价格及版本监控 [下载地址](https://github.com/evilbutcher/Scriptab
 
 北京尾号限行 [下载地址](https://raw.githubusercontent.com/evilbutcher/Scriptables/master/%E5%8C%97%E4%BA%AC%E5%B0%BE%E5%8F%B7%E9%99%90%E8%A1%8C.js)
 
-### 脚本效果演示
-
-##### App 价格及版本监控演示及自定义配置
-
-<img src="https://raw.githubusercontent.com/evilbutcher/Scriptables/master/picture/apppricemonitor.jpeg" height="40%" width="40%">
-
-配置 Config 文件后，脚本运行优先使用 Config 文件内的设置，这样可以保证每次更新不会影响自定义设置。
-
-<img src="https://github.com/evilbutcher/Scriptables/blob/master/picture/config.gif" height="30%" width="30%">
-
-
-##### 热门监控演示图片
-
-<img src="https://raw.githubusercontent.com/evilbutcher/Scriptables/master/picture/hotlistmonitor.jpeg" height="60%" width="60%">
-
-##### NASA 每日一图和 RSS 监控演示图片
-
-<img src="https://raw.githubusercontent.com/evilbutcher/Scriptables/master/picture/nasaandmonitor.jpeg" height="40%" width="40%">
 
 
 
