@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px">  
 
-[![Build Status](https://github.com/Nan-nx/En/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/En/actions)
+[![Build Status](https://github.com/Nan-nx/Scriptable/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/Scriptable/actions)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Nan-nx/En.svg)](https://github.com/Nan-nx/En/tags)
 [![GitHub release](https://img.shields.io/github/release/Nan-nx/En.svg)](https://github.com/Nan-nx/En/releases)
 
