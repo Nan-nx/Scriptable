@@ -18,13 +18,18 @@
 #### 自用机场：
 * https://b.luxury/waf/jCVu3VGrFlVgAcjk2
 
-#### Scriptable  [Tg电报群](https://t.me/Scriptable_JS)
+#### Scriptable  
+[Tg电报群](https://t.me/Scriptable_JS)
 
-#### 使用教程
+#### 完整教程
 
->首先安装 TF版的 [scriptable](https://testflight.apple.com/join/uN1vTqxk)
+> 安装TF版 [scriptable](https://testflight.apple.com/join/uN1vTqxk)
+> 或商店版
 
-> 网页安装：（推荐：⭐️⭐️⭐️⭐️⭐️）[WebStore](https://scriptablejs.gitee.io/store/#/)
+> 网页安装：（推荐：⭐️⭐️⭐️⭐️⭐️）
+> [WebStore](https://scriptablejs.gitee.io/store/#/)
+> [WebStore2](https://dompling.github.io/store/#/)
+
 > 安装教程：[网页安装步骤](https://t.me/Scriptable_JS/101536)
 
 - 作者：<a href="https://raw.githubusercontent.com/dompling/Scriptable/master/install.json" download="2214962083.js">@2Ya - 订阅安装包</a>
