@@ -39,15 +39,13 @@
 - 作者： <a href="https://raw.githubusercontent.com/anker1209/Scriptable/main/install.json" download="anker1209.js">@anker1209 - 订阅安装包</a>
    
 
-##### BoxJs [BoxJs 仓库](https://github.com/chavyleung/scripts/)
-
-BoxJS 数据，是根据 圈 X，Loon , Surge 做的代理功能，教程如下地址：
+> BoxJs [BoxJs 仓库](https://github.com/chavyleung/scripts/)根据 圈 X，Loon , Surge 做的代理功能，教程如下地址：
 
 - [BoxJs 使用教程](https://chavyleung.gitbook.io/boxjs/)
 
 - [BoxJs 教程视频](https://youtu.be/eIpBrRxiy0w)
 
-##### 组件列表
+#### 组件列表
 
 > 特别说明：关于京东的小组件都支持多账号，但是必须用代理脚本去抓取 ck，通过选择设置下标的方式来切换多个账号。[京东 Cookie](https://raw.githubusercontent.com/dompling/Script/master/jd/JD_extra_cookie.js)
 
