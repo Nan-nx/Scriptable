@@ -11,7 +11,7 @@
 
 > 仅作整理，各资源均来自各位大佬：
 > 
-> Dompling：[KOP-XIAO](https://github.com/dompling) 
+> 2ya资源：[Dompling](https://github.com/dompling) 
 > 
 > Boxjs、各种签到脚本：[Chavyleung](https://github.com/chavyleung)
 > 
