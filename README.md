@@ -22,6 +22,8 @@
 #### 自用推荐：
 * 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
 * Scriptable：[Tg Group](https://t.me/Scriptable_JS)
+*  - 下载`Env.js`和`Install Script.js`保存到`Scriptable`(脚本命名为Env和Install Script)
+   - `Install Script.js`可用作脚本的更新，不再需要手动复制[evilbutcher](https://github.com/evilbutcher)仓库代码
 
 #### 完整教程
 
