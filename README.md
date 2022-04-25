@@ -15,11 +15,9 @@
 > 各种资源整合、实用脚本等：[Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
 > 资源广泛，去广告、破解VIP资源：[NobyDa](https://github.com/NobyDa/Script)
 
-#### 自用机场：
-* https://b.luxury/waf/jCVu3VGrFlVgAcjk2
-
-#### Scriptable  
-[Tg电报群](https://t.me/Scriptable_JS)
+#### 自用推荐：
+* 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
+* Scriptable：[Tg Group](https://t.me/Scriptable_JS)
 
 #### 完整教程
 
