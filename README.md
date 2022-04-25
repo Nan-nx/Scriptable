@@ -34,11 +34,11 @@
 
 > 安装教程：[网页安装步骤](https://t.me/Scriptable_JS/101536)
 
-- 作者：<a href="https://raw.githubusercontent.com/dompling/Scriptable/master/install.json" download="2214962083.js">@2Ya - 订阅安装包</a>
+- 安装订阅：<a href="https://raw.githubusercontent.com/dompling/Scriptable/master/install.json" download="2214962083.js">@2Ya</a>
 
-- 作者： <a href="https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/%E6%89%93%E5%8C%85%E5%A5%BD%E7%9A%84%E6%88%90%E5%93%81/install.json" download="2214962083.js">@2214962083 - 订阅安装包</a>
+- 安装订阅： <a href="https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/%E6%89%93%E5%8C%85%E5%A5%BD%E7%9A%84%E6%88%90%E5%93%81/install.json" download="2214962083.js">@2214962083</a>
 
-- 作者： <a href="https://raw.githubusercontent.com/anker1209/Scriptable/main/install.json" download="anker1209.js">@anker1209 - 订阅安装包</a>
+- 安装订阅： <a href="https://raw.githubusercontent.com/anker1209/Scriptable/main/install.json" download="anker1209.js">@anker1209</a>
    
 
 > BoxJs [BoxJs 仓库](https://github.com/chavyleung/scripts/)根据 圈 X，Loon , Surge 做的代理功能，教程如下地址：
