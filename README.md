@@ -20,8 +20,9 @@
 > 资源广泛，去广告、破解VIP资源：[NobyDa](https://github.com/NobyDa/Script)
 
 #### 自用推荐：
-* 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
-* Scriptable：[Tg Group](https://t.me/Scriptable_JS)
+* Scriptable：[Telegram Group](https://t.me/Scriptable_JS)
+* * 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
+
 
 #### 完整教程
 
