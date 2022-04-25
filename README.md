@@ -60,8 +60,26 @@
 配置 Config 文件后，脚本运行优先使用 Config 文件内的设置，这样可以保证每次更新不会影响自定义设置。
 
 #### 组件列表
+B 站榜单 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/BilibiliMonitor.js)
 
-> 说明：京东小组件均支持多账号，需自行抓取 cookies，通过选择设置下标的方式来切换多个账号。[京东 Cookie](https://raw.githubusercontent.com/dompling/Script/master/jd/JD_extra_cookie.js)
+豆瓣电影监控 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/DoubanMonitor.js)
+
+~~人人影视资源 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/RRShareMonitor.js)~~
+
+RSS 监控 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/RSSMonitor.js)
+
+微博热搜 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/WeiboMonitor.js)
+
+知乎热榜 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/ZhihuMonitor.js)
+
+NASA 精简 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/NASA.js) NASA 丰富 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/NASAwDetail.js)
+
+通用签到 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/Checkin.js) 洞签到 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/Dler%20Cloud.js)
+
+App 价格及版本监控 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/AppPriceMonitor.js)
+
+北京尾号限行 [下载地址](https://raw.githubusercontent.com/evilbutcher/Scriptables/master/%E5%8C%97%E4%BA%AC%E5%B0%BE%E5%8F%B7%E9%99%90%E8%A1%8C.js)
+
 
 | 名称                          | 说明       | 备注                                                                                            |
 | ----------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
@@ -88,27 +106,8 @@
 | [疫情日报](https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/COVID-19.js)            | 地区拼音，cd|xian 般城市直接首字母，可能不显示的时候试试全部拼音  |
 | [今日油价](https://raw.githubusercontent.com/dompling/scriptableTsx/master/scripts/TodayOilPrice.js)            | BoxJS数据 | 自行申请腾讯地图的 token，以显示附近加油站 |
 
-B 站榜单 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/BilibiliMonitor.js)
 
-豆瓣电影监控 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/DoubanMonitor.js)
-
-~~人人影视资源 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/RRShareMonitor.js)~~
-
-RSS 监控 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/RSSMonitor.js)
-
-微博热搜 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/WeiboMonitor.js)
-
-知乎热榜 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/ZhihuMonitor.js)
-
-NASA 精简 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/NASA.js) NASA 丰富 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/NASAwDetail.js)
-
-通用签到 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/Checkin.js) 洞签到 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/Dler%20Cloud.js)
-
-App 价格及版本监控 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/AppPriceMonitor.js)
-
-北京尾号限行 [下载地址](https://raw.githubusercontent.com/evilbutcher/Scriptables/master/%E5%8C%97%E4%BA%AC%E5%B0%BE%E5%8F%B7%E9%99%90%E8%A1%8C.js)
-
-
+> 说明：京东小组件均支持多账号，需自行抓取 cookies，通过选择设置下标的方式来切换多个账号。[京东 Cookie](https://raw.githubusercontent.com/dompling/Script/master/jd/JD_extra_cookie.js)
 
 
 #### 欢迎访问
