@@ -28,7 +28,7 @@
 > 安装TF版 [scriptable](https://testflight.apple.com/join/uN1vTqxk)
 > 或商店版
 
-> 网页安装：（推荐：⭐️⭐️⭐️⭐️⭐️）
+> 网页安装：（⭐️⭐️⭐️⭐️⭐️）
 > [WebStore](https://scriptablejs.gitee.io/store/#/)
 > [WebStore2](https://dompling.github.io/store/#/)
 
@@ -49,7 +49,7 @@
 
 #### 组件列表
 
-> 特别说明：关于京东的小组件都支持多账号，但是必须用代理脚本去抓取 ck，通过选择设置下标的方式来切换多个账号。[京东 Cookie](https://raw.githubusercontent.com/dompling/Script/master/jd/JD_extra_cookie.js)
+> 说明：京东小组件均支持多账号，需自行抓取 cookies，通过选择设置下标的方式来切换多个账号。[京东 Cookie](https://raw.githubusercontent.com/dompling/Script/master/jd/JD_extra_cookie.js)
 
 | 名称                          | 说明       | 备注                                                                                            |
 | ----------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
@@ -78,7 +78,7 @@
 
 
 
-
+#### 欢迎访问
 
 <a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Quan_X-v2.0-brown'/></a> 
 <a href="https://github.com/Nan-nx/Scriptable"><img src='https://img.shields.io/badge/Scriptable-v1.0-orange'/></a>
