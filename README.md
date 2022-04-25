@@ -109,9 +109,14 @@ App 价格及版本监控 [下载地址](https://github.com/evilbutcher/Scriptab
 
 ### 脚本效果演示
 
-##### App 价格及版本监控演示图片
+##### App 价格及版本监控演示及自定义配置
 
 <img src="https://raw.githubusercontent.com/evilbutcher/Scriptables/master/picture/apppricemonitor.jpeg" height="40%" width="40%">
+
+配置 Config 文件后，脚本运行优先使用 Config 文件内的设置，这样可以保证每次更新不会影响自定义设置。
+
+<img src="https://github.com/evilbutcher/Scriptables/blob/master/picture/config.gif" height="30%" width="30%">
+
 
 ##### 热门监控演示图片
 
@@ -121,11 +126,6 @@ App 价格及版本监控 [下载地址](https://github.com/evilbutcher/Scriptab
 
 <img src="https://raw.githubusercontent.com/evilbutcher/Scriptables/master/picture/nasaandmonitor.jpeg" height="40%" width="40%">
 
-#### 自定义配置效果演示
-
-配置 Config 文件后，脚本运行优先使用 Config 文件内的设置，这样可以保证每次更新不会影响自定义设置。
-
-<img src="https://github.com/evilbutcher/Scriptables/blob/master/picture/config.gif" height="30%" width="30%">
 
 
 #### 欢迎访问
