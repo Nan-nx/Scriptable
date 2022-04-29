@@ -60,6 +60,8 @@
 ~~如果想要保持自动更新，又想要自定义脚本内设置，需要使用 Config，点击[这里](https://github.com/evilbutcher/Scriptables/blob/master/Config.js)下载安装 Config.js。~~
 配置 Config 文件后，脚本运行优先使用 Config 文件内的设置，这样可以保证每次更新不会影响自定义设置。
 
+-------------------------分割线-------------------------------
+
 #### 组件列表
 B 站榜单 [下载地址](https://github.com/evilbutcher/Scriptables/blob/master/BilibiliMonitor.js)
 
