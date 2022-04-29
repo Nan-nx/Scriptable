@@ -21,7 +21,7 @@
 
 #### 自用推荐：
 * Scriptable：[Telegram Group](https://t.me/Scriptable_JS)
-* * 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
+* 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
 
 
 #### 完整教程
