@@ -1,16 +1,3 @@
-## Scriptable 脚本整理
-
-#### [English Version](https://github.com/evilbutcher/Scriptables/blob/master/README_EN.md)
-
-文档和脚本使用方法请前往@GideonSenku 仓库【[Scriptable](https://github.com/GideonSenku/Scriptable)】的 README.md。欢迎使用反馈。
-
-## 致谢
-
-感谢@GideonSenku 的 Env 感谢@MuTu88 帮忙测试
-
-如果能请杯奶茶，就很感谢啦！  
-<img src="https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/photo.jpeg" height="40%" width="40%">
-
 ### 更新
 
 2020.11.24 恢复了 Config.js 支持的脚本文件。
