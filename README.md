@@ -26,7 +26,7 @@
 
 #### 完整教程
 
-> 安装TF版 [scriptable](https://testflight.apple.com/join/uN1vTqxk)
+> 安装TF版 [Scriptable](https://testflight.apple.com/join/uN1vTqxk)
 > 或商店版
 
 > 网页安装：（⭐️⭐️⭐️⭐️⭐️）
