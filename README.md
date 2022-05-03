@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px">  
+## <a href="https://t.me/Nan_nx"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
 
 [![Build Status](https://github.com/Nan-nx/Scriptable/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/Scriptable/actions)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Nan-nx/Scriptable.svg)](https://github.com/Nan-nx/Scriptable/tags)
