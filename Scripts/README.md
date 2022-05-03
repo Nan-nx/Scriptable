@@ -1,6 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=evilbutcher)](https://github.com/anuraghazra/github-readme-stats)
-
-# Scriptable 脚本整理
+## Scriptable 脚本整理
 
 #### [English Version](https://github.com/evilbutcher/Scriptables/blob/master/README_EN.md)
 
