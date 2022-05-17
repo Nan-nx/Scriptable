@@ -1,13 +1,9 @@
 ## <a href="https://t.me/Nan_nx"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
+<a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Quan_X-v2.0-brown'/></a> 
+<a href="https://github.com/Nan-nx/Scriptable"><img src='https://img.shields.io/badge/Scriptable-v1.0-orange'/></a>
+<a href="https://github.com/Nan-nx/Book"><img src='https://img.shields.io/badge/Book-v3.0-red'/></a> 
 
-[![Build Status](https://github.com/Nan-nx/Scriptable/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/Scriptable/actions)
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Nan-nx/Scriptable.svg)](https://github.com/Nan-nx/Scriptable/tags)
-[![GitHub release](https://img.shields.io/github/release/Nan-nx/Scriptable.svg)](https://github.com/Nan-nx/Scriptable/releases)
-
-[![Issues](https://img.shields.io/github/issues/Nan-nx/Scriptable)](https://github.com/Nan-nx/Scriptable/issues)
-[![Commit](https://img.shields.io/github/commit-activity/m/Nan-nx/Scriptable?label=commits)](https://github.com/Nan-nx/Scriptable/commits/master)
-[![Stars](https://img.shields.io/github/stars/Nan-nx/Scriptable)](https://github.com/Nan-nx/Scriptable/stargazers)
-![](https://visitor-badge.glitch.me/badge?page_id=Nan-nx)
+<a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/By-Nan--nx-green'/></a>
 
 #### 自用推荐：
 * Scriptable：[Telegram Group](https://t.me/Scriptable_JS)
@@ -113,9 +109,11 @@ App 价格及版本监控 [下载地址](https://github.com/evilbutcher/Scriptab
 
 #### 欢迎访问
 
-<a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Quan_X-v2.0-brown'/></a> 
-<a href="https://github.com/Nan-nx/Scriptable"><img src='https://img.shields.io/badge/Scriptable-v1.0-orange'/></a>
-<a href="https://github.com/Nan-nx/Book"><img src='https://img.shields.io/badge/Book-v3.0-red'/></a> 
+[![Build Status](https://github.com/Nan-nx/Scriptable/actions/workflows/build.yml/badge.svg)](https://github.com/Nan-nx/Scriptable/actions)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Nan-nx/Scriptable.svg)](https://github.com/Nan-nx/Scriptable/tags)
+[![GitHub release](https://img.shields.io/github/release/Nan-nx/Scriptable.svg)](https://github.com/Nan-nx/Scriptable/releases)
 [![GitHub license](https://img.shields.io/github/license/Nan-nx/Scriptable.svg)](https://github.com/Nan-nx/Scriptable/blob/master/LICENSE) 
-<a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/By-Nan--nx-green'/></a>
- 
+[![Issues](https://img.shields.io/github/issues/Nan-nx/Scriptable)](https://github.com/Nan-nx/Scriptable/issues)
+[![Commit](https://img.shields.io/github/commit-activity/m/Nan-nx/Scriptable?label=commits)](https://github.com/Nan-nx/Scriptable/commits/master)
+[![Stars](https://img.shields.io/github/stars/Nan-nx/Scriptable)](https://github.com/Nan-nx/Scriptable/stargazers)
+![](https://visitor-badge.glitch.me/badge?page_id=Nan-nx)
