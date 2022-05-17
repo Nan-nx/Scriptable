@@ -1,6 +1,6 @@
 ## <a href="https://t.me/Nan_nx"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
 
-* 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
+* 自用机场：[China G](https://b.luxury/waf/jCVu3VGrFlVgAcjk2)
 * Scriptable：[Telegram Group](https://t.me/Scriptable_JS)
 * 2ya资源：[Dompling](https://github.com/dompling) 
 * Boxjs、各种签到脚本：[Chavyleung](https://github.com/chavyleung)
