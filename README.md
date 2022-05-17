@@ -1,6 +1,5 @@
 ## <a href="https://t.me/Nan_nx"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="65px"/></a>
 
-#### 自用推荐：
 * 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
 * Scriptable：[Telegram Group](https://t.me/Scriptable_JS)
 * 2ya资源：[Dompling](https://github.com/dompling) 
