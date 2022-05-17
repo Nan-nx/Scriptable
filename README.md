@@ -9,6 +9,9 @@
 [![Stars](https://img.shields.io/github/stars/Nan-nx/Scriptable)](https://github.com/Nan-nx/Scriptable/stargazers)
 ![](https://visitor-badge.glitch.me/badge?page_id=Nan-nx)
 
+#### 自用推荐：
+* Scriptable：[Telegram Group](https://t.me/Scriptable_JS)
+* 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
 > 仅作整理，各资源均来自各位大佬：
 > 
 > 2ya资源：[Dompling](https://github.com/dompling) 
@@ -18,11 +21,6 @@
 > 各种资源整合、实用脚本等：[Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
 > 
 > 资源广泛，去广告、破解VIP资源：[NobyDa](https://github.com/NobyDa/Script)
-
-#### 自用推荐：
-* Scriptable：[Telegram Group](https://t.me/Scriptable_JS)
-* 机场：https://b.luxury/waf/jCVu3VGrFlVgAcjk2
-
 
 #### 完整教程
 
